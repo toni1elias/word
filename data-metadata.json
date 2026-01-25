@@ -1,0 +1,9 @@
+
+[
+  { "id": 1, "word": "Apfel", "image": "https://picsum.photos/id/102/400/400" },
+  { "id": 2, "word": "Auto", "image": "https://picsum.photos/id/183/400/400" },
+  { "id": 3, "word": "Hund", "image": "https://picsum.photos/id/237/400/400" },
+  { "id": 4, "word": "Berg", "image": "https://picsum.photos/id/10/400/400" },
+  { "id": 5, "word": "Buch", "image": "https://picsum.photos/id/24/400/400" },
+  { "id": 6, "word": "Fahrrad", "image": "https://picsum.photos/id/72/400/400" }
+]
