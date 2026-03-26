@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+*.ts
+*.tsx
+package-lock.json
+package.json
+README.md
+tsconfig.json
