@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "word": "der Flughafen",
+    "image": "./src/images/Airport.png"
+  },
+  {
+    "id": 2,
+    "word": "die Ameise",
+    "image": "./src/images/Ant.png"
+  },
+  {
+    "id": 3,
+    "word": "der Apfel",
+    "image": "./src/images/Apple.png"
+  },
+  {
+    "id": 4,
+    "word": "die Aprikose",
+    "image": "./src/images/Apricot.png"
+  },
+  {
+    "id": 5,
+    "word": "die Avocado",
+    "image": "./src/images/Avocado.png"
+  },
+  {
+    "id": 6,
+    "word": "die Tasche",
+    "image": "./src/images/Bag.png"
+  },
+  {
+    "id": 7,
+    "word": "der Balkon",
+    "image": "./src/images/Balcony.png"
+  },
+  {
+    "id": 8,
+    "word": "die Banane",
+    "image": "./src/images/Banana.png"
+  },
+  {
+    "id": 9,
+    "word": "die Bank",
+    "image": "./src/images/Bank.png"
+  },
+  {
+    "id": 10,
+    "word": "das Badezimmer",
+    "image": "./src/images/Bathroom.png"
+  },
+  {
+    "id": 11,
+    "word": "der Strand",
+    "image": "./src/images/Beach.png"
+  },
+  {
+    "id": 12,
+    "word": "die Bohnen",
+    "image": "./src/images/Beans.png"
+  },
+  {
+    "id": 13,
+    "word": "der Bär",
+    "image": "./src/images/Bear.png"
+  },
+  {
+    "id": 14,
+    "word": "das Bett",
+    "image": "./src/images/Bed.png"
+  },
+  {
+    "id": 15,
+    "word": "das Schlafzimmer",
+    "image": "./src/images/Bedroom.png"
+  },
+  {
+    "id": 16,
+    "word": "die Biene",
+    "image": "./src/images/Bee.png"
+  },
+  {
+    "id": 17,
+    "word": "das Bier",
+    "image": "./src/images/Beer.png"
+  },
+  {
+    "id": 18,
+    "word": "der Gürtel",
+    "image": "./src/images/Belt.png"
+  },
+  {
+    "id": 19,
+    "word": "das Fahrrad",
+    "image": "./src/images/Bicycle.png"
+  },
+  {
+    "id": 20,
+    "word": "der Keks",
+    "image": "./src/images/Biscuit.png"
+  },
+  {
+    "id": 21,
+    "word": "die Decke",
+    "image": "./src/images/Blanket.png"
+  },
+  {
+    "id": 22,
+    "word": "die Bluse",
+    "image": "./src/images/Blouse.png"
+  },
+  {
+    "id": 23,
+    "word": "die Heidelbeere",
+    "image": "./src/images/Blueberry.png"
+  },
+  {
+    "id": 24,
+    "word": "die Stiefel",
+    "image": "./src/images/Boots.png"
+  },
+  {
+    "id": 25,
+    "word": "das Brot",
+    "image": "./src/images/Bread.png"
+  },
+  {
+    "id": 26,
+    "word": "die Brücke",
+    "image": "./src/images/Bridge.png"
+  },
+  {
+    "id": 27,
+    "word": "der Brokkoli",
+    "image": "./src/images/Broccoli.png"
+  },
+  {
+    "id": 28,
+    "word": "der Bus",
+    "image": "./src/images/Bus.png"
+  },
+  {
+    "id": 29,
+    "word": "die Bushaltestelle",
+    "image": "./src/images/Bus Stop.png"
+  },
+  {
+    "id": 30,
+    "word": "der Schmetterling",
+    "image": "./src/images/Butterfly.png"
+  },
+  {
+    "id": 31,
+    "word": "die Butter",
+    "image": "./src/images/Butter.png"
+  },
+  {
+    "id": 32,
+    "word": "der Kohl",
+    "image": "./src/images/Cabbage.png"
+  },
+  {
+    "id": 33,
+    "word": "der Schrank",
+    "image": "./src/images/Cabinet.png"
+  },
+  {
+    "id": 34,
+    "word": "der Kuchen",
+    "image": "./src/images/Cake.png"
+  },
+  {
+    "id": 35,
+    "word": "das Kamel",
+    "image": "./src/images/Camel.png"
+  },
+  {
+    "id": 36,
+    "word": "die Mütze",
+    "image": "./src/images/Cap.png"
+  },
+  {
+    "id": 37,
+    "word": "das Auto",
+    "image": "./src/images/Car.png"
+  },
+  {
+    "id": 38,
+    "word": "die Karotte",
+    "image": "./src/images/Carrot.png"
+  },
+  {
+    "id": 39,
+    "word": "die Katze",
+    "image": "./src/images/Cat.png"
+  },
+  {
+    "id": 40,
+    "word": "der Blumenkohl",
+    "image": "./src/images/Cauliflower.png"
+  },
+  {
+    "id": 41,
+    "word": "die Decke",
+    "image": "./src/images/Ceiling.png"
+  },
+  {
+    "id": 42,
+    "word": "der Stuhl",
+    "image": "./src/images/Chair.png"
+  },
+  {
+    "id": 43,
+    "word": "der Käse",
+    "image": "./src/images/Cheese.png"
+  },
+  {
+    "id": 44,
+    "word": "die Kirsche",
+    "image": "./src/images/Cherry.png"
+  },
+  {
+    "id": 45,
+    "word": "das Hühnerfleisch",
+    "image": "./src/images/Chicken Meat.png"
+  },
+  {
+    "id": 46,
+    "word": "das Huhn",
+    "image": "./src/images/Chicken.png"
+  },
+  {
+    "id": 47,
+    "word": "die Schokolade",
+    "image": "./src/images/Chocolate.png"
+  },
+  {
+    "id": 48,
+    "word": "die Kirche",
+    "image": "./src/images/Church.png"
+  },
+  {
+    "id": 49,
+    "word": "das Kino",
+    "image": "./src/images/Cinema.png"
+  },
+  {
+    "id": 50,
+    "word": "die Uhr",
+    "image": "./src/images/Clock.png"
+  },
+  {
+    "id": 51,
+    "word": "der Kleiderschrank",
+    "image": "./src/images/Closet.png"
+  },
+  {
+    "id": 52,
+    "word": "der Mantel",
+    "image": "./src/images/Coat.png"
+  },
+  {
+    "id": 53,
+    "word": "die Kokosnuss",
+    "image": "./src/images/Coconut.png"
+  },
+  {
+    "id": 54,
+    "word": "der Kaffee",
+    "image": "./src/images/Coffee.png"
+  },
+  {
+    "id": 55,
+    "word": "der Mais",
+    "image": "./src/images/Corn.png"
+  },
+  {
+    "id": 56,
+    "word": "die Kuh",
+    "image": "./src/images/Cow.png"
+  },
+  {
+    "id": 57,
+    "word": "die Krabbe",
+    "image": "./src/images/Crab.png"
+  },
+  {
+    "id": 58,
+    "word": "das Krokodil",
+    "image": "./src/images/Crocodile.png"
+  },
+  {
+    "id": 59,
+    "word": "die Krähe",
+    "image": "./src/images/Crow.png"
+  },
+  {
+    "id": 60,
+    "word": "die Gurke",
+    "image": "./src/images/Cucumber.png"
+  },
+  {
+    "id": 61,
+    "word": "der Küchenschrank",
+    "image": "./src/images/Cupboard.png"
+  },
+  {
+    "id": 62,
+    "word": "der Vorhang",
+    "image": "./src/images/Curtain.png"
+  },
+  {
+    "id": 63,
+    "word": "die Dattel",
+    "image": "./src/images/Date.png"
+  },
+  {
+    "id": 64,
+    "word": "das Reh",
+    "image": "./src/images/Deer.png"
+  },
+  {
+    "id": 65,
+    "word": "der Geschirrspüler",
+    "image": "./src/images/Dishwasher.png"
+  },
+  {
+    "id": 66,
+    "word": "der Hund",
+    "image": "./src/images/Dog.png"
+  },
+  {
+    "id": 67,
+    "word": "der Delfin",
+    "image": "./src/images/Dolphin.png"
+  },
+  {
+    "id": 68,
+    "word": "die Tür",
+    "image": "./src/images/Door.png"
+  },
+  {
+    "id": 69,
+    "word": "das Kleid",
+    "image": "./src/images/Dress.png"
+  },
+  {
+    "id": 70,
+    "word": "die Ente",
+    "image": "./src/images/Duck.png"
+  },
+  {
+    "id": 71,
+    "word": "der Adler",
+    "image": "./src/images/Eagle.png"
+  },
+  {
+    "id": 72,
+    "word": "die Aubergine",
+    "image": "./src/images/Eggplant.png"
+  },
+  {
+    "id": 73,
+    "word": "das Ei",
+    "image": "./src/images/Egg.png"
+  },
+  {
+    "id": 74,
+    "word": "der Elefant",
+    "image": "./src/images/Elephant.png"
+  },
+  {
+    "id": 75,
+    "word": "der Kamin",
+    "image": "./src/images/Fireplace.png"
+  },
+  {
+    "id": 76,
+    "word": "der Fisch",
+    "image": "./src/images/Fish.png"
+  },
+  {
+    "id": 77,
+    "word": "der Boden",
+    "image": "./src/images/Floor.png"
+  },
+  {
+    "id": 78,
+    "word": "der Springbrunnen",
+    "image": "./src/images/Fountain.png"
+  },
+  {
+    "id": 79,
+    "word": "der Fuchs",
+    "image": "./src/images/Fox.png"
+  },
+  {
+    "id": 80,
+    "word": "der Kühlschrank",
+    "image": "./src/images/Fridge.png"
+  },
+  {
+    "id": 81,
+    "word": "der Frosch",
+    "image": "./src/images/Frog.png"
+  },
+  {
+    "id": 82,
+    "word": "das Obst",
+    "image": "./src/images/Fruit.png"
+  },
+  {
+    "id": 83,
+    "word": "die Garage",
+    "image": "./src/images/Garage.png"
+  },
+  {
+    "id": 84,
+    "word": "der Garten",
+    "image": "./src/images/Garden.png"
+  },
+  {
+    "id": 85,
+    "word": "der Knoblauch",
+    "image": "./src/images/Garlic.png"
+  },
+  {
+    "id": 86,
+    "word": "die Tankstelle",
+    "image": "./src/images/Gas Station.png"
+  },
+  {
+    "id": 87,
+    "word": "die Handschuhe",
+    "image": "./src/images/Gloves.png"
+  },
+  {
+    "id": 88,
+    "word": "die Ziege",
+    "image": "./src/images/Goat.png"
+  },
+  {
+    "id": 89,
+    "word": "der Gorilla",
+    "image": "./src/images/Gorilla.png"
+  },
+  {
+    "id": 90,
+    "word": "die Trauben",
+    "image": "./src/images/Grapes.png"
+  },
+  {
+    "id": 91,
+    "word": "der Hut",
+    "image": "./src/images/Hat.png"
+  },
+  {
+    "id": 92,
+    "word": "der Igel",
+    "image": "./src/images/Hedgehog.png"
+  },
+  {
+    "id": 93,
+    "word": "die Autobahn",
+    "image": "./src/images/Highway.png"
+  },
+  {
+    "id": 94,
+    "word": "der Honig",
+    "image": "./src/images/Honey.png"
+  },
+  {
+    "id": 95,
+    "word": "der Kapuzenpullover",
+    "image": "./src/images/Hoodie.png"
+  },
+  {
+    "id": 96,
+    "word": "das Pferd",
+    "image": "./src/images/Horse.png"
+  },
+  {
+    "id": 97,
+    "word": "das Krankenhaus",
+    "image": "./src/images/Hospital.png"
+  },
+  {
+    "id": 98,
+    "word": "das Hotel",
+    "image": "./src/images/Hotel.png"
+  },
+  {
+    "id": 99,
+    "word": "das Haus",
+    "image": "./src/images/House.png"
+  },
+  {
+    "id": 100,
+    "word": "das Eis",
+    "image": "./src/images/Ice Cream.png"
+  },
+  {
+    "id": 101,
+    "word": "die Jacke",
+    "image": "./src/images/Jacket.png"
+  },
+  {
+    "id": 102,
+    "word": "die Jeans",
+    "image": "./src/images/Jeans.png"
+  },
+  {
+    "id": 103,
+    "word": "der Saft",
+    "image": "./src/images/Juice.png"
+  },
+  {
+    "id": 104,
+    "word": "das Känguru",
+    "image": "./src/images/Kangaroo.png"
+  },
+  {
+    "id": 105,
+    "word": "die Küche",
+    "image": "./src/images/Kitchen.png"
+  },
+  {
+    "id": 106,
+    "word": "die Kiwi",
+    "image": "./src/images/Kiwi.png"
+  },
+  {
+    "id": 107,
+    "word": "der Koala",
+    "image": "./src/images/Koala.png"
+  },
+  {
+    "id": 108,
+    "word": "die Lampe",
+    "image": "./src/images/Lamp.png"
+  },
+  {
+    "id": 109,
+    "word": "die Limonade",
+    "image": "./src/images/Lemonade.png"
+  },
+  {
+    "id": 110,
+    "word": "die Zitrone",
+    "image": "./src/images/Lemon.png"
+  },
+  {
+    "id": 111,
+    "word": "der Kopfsalat",
+    "image": "./src/images/Lettuce.png"
+  },
+  {
+    "id": 112,
+    "word": "die Bibliothek",
+    "image": "./src/images/Library.png"
+  },
+  {
+    "id": 113,
+    "word": "der Löwe",
+    "image": "./src/images/Lion.png"
+  },
+  {
+    "id": 114,
+    "word": "das Wohnzimmer",
+    "image": "./src/images/Living Room.png"
+  },
+  {
+    "id": 115,
+    "word": "die Eidechse",
+    "image": "./src/images/Lizard.png"
+  },
+  {
+    "id": 116,
+    "word": "der Hummer",
+    "image": "./src/images/Lobster.png"
+  },
+  {
+    "id": 117,
+    "word": "die Mango",
+    "image": "./src/images/Mango.png"
+  },
+  {
+    "id": 118,
+    "word": "der Markt",
+    "image": "./src/images/Market.png"
+  },
+  {
+    "id": 119,
+    "word": "die Matte",
+    "image": "./src/images/Mat.png"
+  },
+  {
+    "id": 120,
+    "word": "das Fleisch",
+    "image": "./src/images/Meat.png"
+  },
+  {
+    "id": 121,
+    "word": "die Mikrowelle",
+    "image": "./src/images/Microwave.png"
+  },
+  {
+    "id": 122,
+    "word": "die Milch",
+    "image": "./src/images/Milk.png"
+  },
+  {
+    "id": 123,
+    "word": "der Spiegel",
+    "image": "./src/images/Mirror.png"
+  },
+  {
+    "id": 124,
+    "word": "der Affe",
+    "image": "./src/images/Monkey.png"
+  },
+  {
+    "id": 125,
+    "word": "die Maus",
+    "image": "./src/images/Mouse.png"
+  },
+  {
+    "id": 126,
+    "word": "das Museum",
+    "image": "./src/images/Museum.png"
+  },
+  {
+    "id": 127,
+    "word": "der Pilz",
+    "image": "./src/images/Mushroom.png"
+  },
+  {
+    "id": 128,
+    "word": "das Öl",
+    "image": "./src/images/Oil.png"
+  },
+  {
+    "id": 129,
+    "word": "die Zwiebel",
+    "image": "./src/images/Onion.png"
+  },
+  {
+    "id": 130,
+    "word": "die Orange",
+    "image": "./src/images/Orange.png"
+  },
+  {
+    "id": 131,
+    "word": "der Ofen",
+    "image": "./src/images/Oven.png"
+  },
+  {
+    "id": 132,
+    "word": "die Eule",
+    "image": "./src/images/Owl.png"
+  },
+  {
+    "id": 133,
+    "word": "das Gemälde",
+    "image": "./src/images/Painting.png"
+  },
+  {
+    "id": 134,
+    "word": "der Schlafanzug",
+    "image": "./src/images/Pajamas.png"
+  },
+  {
+    "id": 135,
+    "word": "der Panda",
+    "image": "./src/images/Panda.png"
+  },
+  {
+    "id": 136,
+    "word": "die Hose",
+    "image": "./src/images/Pants.png"
+  },
+  {
+    "id": 137,
+    "word": "der Parkplatz",
+    "image": "./src/images/Parking.png"
+  },
+  {
+    "id": 138,
+    "word": "der Park",
+    "image": "./src/images/Park.png"
+  },
+  {
+    "id": 139,
+    "word": "der Papagei",
+    "image": "./src/images/Parrot.png"
+  },
+  {
+    "id": 140,
+    "word": "die Pasta",
+    "image": "./src/images/Pasta.png"
+  },
+  {
+    "id": 141,
+    "word": "der Pfirsich",
+    "image": "./src/images/Peach.png"
+  },
+  {
+    "id": 142,
+    "word": "der Pfau",
+    "image": "./src/images/Peacock.png"
+  },
+  {
+    "id": 143,
+    "word": "die Birne",
+    "image": "./src/images/Pear.png"
+  },
+  {
+    "id": 144,
+    "word": "die Erbsen",
+    "image": "./src/images/Peas.png"
+  },
+  {
+    "id": 145,
+    "word": "der Pinguin",
+    "image": "./src/images/Penguin.png"
+  },
+  {
+    "id": 146,
+    "word": "der Pfeffer",
+    "image": "./src/images/Pepper.png"
+  },
+  {
+    "id": 147,
+    "word": "die Apotheke",
+    "image": "./src/images/Pharmacy.png"
+  },
+  {
+    "id": 148,
+    "word": "das Schwein",
+    "image": "./src/images/Pig.png"
+  },
+  {
+    "id": 149,
+    "word": "das Kissen",
+    "image": "./src/images/Pillow.png"
+  },
+  {
+    "id": 150,
+    "word": "die Ananas",
+    "image": "./src/images/Pineapple.png"
+  },
+  {
+    "id": 151,
+    "word": "die Pizza",
+    "image": "./src/images/Pizza.png"
+  },
+  {
+    "id": 152,
+    "word": "das Flugzeug",
+    "image": "./src/images/Plane.png"
+  },
+  {
+    "id": 153,
+    "word": "der Granatapfel",
+    "image": "./src/images/Pomegranate.png"
+  },
+  {
+    "id": 154,
+    "word": "das Postamt",
+    "image": "./src/images/Post Office.png"
+  },
+  {
+    "id": 155,
+    "word": "die Kartoffel",
+    "image": "./src/images/Potato.png"
+  },
+  {
+    "id": 156,
+    "word": "der Kürbis",
+    "image": "./src/images/Pumpkin.png"
+  },
+  {
+    "id": 157,
+    "word": "das Kaninchen",
+    "image": "./src/images/Rabbit.png"
+  },
+  {
+    "id": 158,
+    "word": "der Regenmantel",
+    "image": "./src/images/Raincoat.png"
+  },
+  {
+    "id": 159,
+    "word": "die Himbeere",
+    "image": "./src/images/Raspberry.png"
+  },
+  {
+    "id": 160,
+    "word": "die Ratte",
+    "image": "./src/images/Rat.png"
+  },
+  {
+    "id": 161,
+    "word": "das Restaurant",
+    "image": "./src/images/Restaurant.png"
+  },
+  {
+    "id": 162,
+    "word": "der Reis",
+    "image": "./src/images/Rice.png"
+  },
+  {
+    "id": 163,
+    "word": "die Straße",
+    "image": "./src/images/Road.png"
+  },
+  {
+    "id": 164,
+    "word": "der Bademantel",
+    "image": "./src/images/Robe.png"
+  },
+  {
+    "id": 165,
+    "word": "das Zimmer",
+    "image": "./src/images/Room.png"
+  },
+  {
+    "id": 166,
+    "word": "der Teppich",
+    "image": "./src/images/Rug.png"
+  },
+  {
+    "id": 167,
+    "word": "der Salat",
+    "image": "./src/images/Salad.png"
+  },
+  {
+    "id": 168,
+    "word": "das Salz",
+    "image": "./src/images/Salt.png"
+  },
+  {
+    "id": 169,
+    "word": "die Sandalen",
+    "image": "./src/images/Sandals.png"
+  },
+  {
+    "id": 170,
+    "word": "das Sandwich",
+    "image": "./src/images/Sandwich.png"
+  },
+  {
+    "id": 171,
+    "word": "die Wurst",
+    "image": "./src/images/Sausage.png"
+  },
+  {
+    "id": 172,
+    "word": "der Schal",
+    "image": "./src/images/Scarf.png"
+  },
+  {
+    "id": 173,
+    "word": "die Schule",
+    "image": "./src/images/School.png"
+  },
+  {
+    "id": 174,
+    "word": "die Robbe",
+    "image": "./src/images/Seal.png"
+  },
+  {
+    "id": 175,
+    "word": "der Hai",
+    "image": "./src/images/Shark.png"
+  },
+  {
+    "id": 176,
+    "word": "das Schaf",
+    "image": "./src/images/Sheep.png"
+  },
+  {
+    "id": 177,
+    "word": "das Regal",
+    "image": "./src/images/Shelf.png"
+  },
+  {
+    "id": 178,
+    "word": "das Hemd",
+    "image": "./src/images/Shirt.png"
+  },
+  {
+    "id": 179,
+    "word": "die Schuhe",
+    "image": "./src/images/Shoes.png"
+  },
+  {
+    "id": 180,
+    "word": "das Geschäft",
+    "image": "./src/images/Shop.png"
+  }
+]
